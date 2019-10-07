@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://upoociemei.zhangyifeng1995.cn/sitemap.xml
